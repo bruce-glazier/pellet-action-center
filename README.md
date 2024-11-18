@@ -4,7 +4,7 @@ I developed this software specifically for the "Master Forge 2500-sq ft Pellet S
 
 ## What this does?
 
-There is another project that is required to run this solution which I am calling the communication bridge to the stove: https://www.github.com/bruce-glazier/pellet
+There is another project that is required to run this solution which I am calling the communication bridge to the stove: https://www.github.com/bruce-glazier/pellet-comm-bridge
 
 This project can be thought of as the action center where decisions about how to interact with the stove can be made. 
 
